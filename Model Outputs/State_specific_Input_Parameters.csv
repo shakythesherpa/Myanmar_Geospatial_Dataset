@@ -1,0 +1,36 @@
+,,,,,,,,,,,,,Amt,Units,,Amt,Units,Source
+,,Urb Gr Rate,EffGrUrb,Rur Gr Rate,EffGrRur,Urb Mn HH size,Rur Mn HH size,Diesel Cost,MV Cost,,,Kyat / USD (Feb / Mar approx ave),950,,,,,Oanda.com
+,State / Region ,(fraction),,(fraction),,,,USD / liter,USD / meter,,,Liters per gallon,3.785,,,,,conversion
+,Full Name,demographics > population growth rate per year (urban),demographics > population growth rate per year (urban),demographics > population growth rate per year (rural),demographics > population growth rate per year (rural),demographics > mean household size (urban),demographics > mean household size (rural),system (mini-grid) > diesel fuel cost per liter,system (grid) > medium voltage line cost per meter,,,,,,,,,
+,Long Alias,demo_pop_gr_rt_pr_yr_urb,demo_pop_gr_rt_pr_yr_urb,demo_pop_gr_rt_pr_yr_rur,demo_pop_gr_rt_pr_yr_rur,demo_mn_hh_sz_urb,demo_mn_hh_sz_rur,mg_dsl_fuel_cst_pr_ltr,gr_mv_ln_cst_pr_m,,,,,,,,,
+,Short Alias,pop_g_u,pop_g_u,pop_g_r,pop_g_r,ho_size_u,ho_size_r,mg_fl_cl,gr_ml_cm,,,,,,,,,
+,State / Region ,,Growth Rate (Urban),,Growth Rate (Rural),Household Size (Urban),Household Size (Rural),"Diesel Cost 
+(USD/liter)","MV Cost 
+(USD/meter)",,,,,,,,,
+1,Chin,0.0176,0.0117,0.0115,0.0077,5.29,6.34,1.28,21,,,"Cost of Diesel in chin, Feb 2014: ",4600,kyat / gal,,1.279288048,USD / liter,site visit (Edwin)
+2,Kachin,0.0217,0.0144,0.0138,0.0091,6.01,7.96,1.28,21,,,"Cost of Diesel in MMR, Mar 2014: ",,,,1.004,USD / liter,Burma Business Weekly (http://www.dvb.no/news/burma-business-weekly-2/39590)
+,,,,,,,,,,,,,,,,,,
+3,Shan (east),0.0171,0.0114,0.0099,0.0066,5.20,5.44,1.14,20,,,,,,,,,
+4,Shan (north),0.0171,0.0114,0.0099,0.0066,5.59,6.98,1.14,20,,,,,,,,,
+5,Tanintharyi,0.0253,0.0168,0.0183,0.0122,5.56,6.09,1.14,20,,,,,,,,,
+6,Kayin,0.0329,0.0218,0.0150,0.0100,5.69,6.10,1.14,20,,,,,,,,,
+7,Sagaing,0.0187,0.0124,0.0177,0.0118,5.41,6.51,1.14,20,,,,,,,,,
+9,Kayah,0.0236,0.0157,0.0228,0.0151,5.50,5.88,1.14,20,,,,,,,,,
+10,Rakhine,0.0160,0.0106,0.0151,0.0100,5.85,6.20,1.14,20,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+11,Yangon,0.0181,0.0120,0.0101,0.0068,5.30,5.50,1.00,19,,,,,,,,,
+12,Ayer,0.0095,0.0063,0.0145,0.0096,5.17,5.43,1.00,19,,,,,,,,,
+13,Mon,0.0177,0.0118,0.0199,0.0132,5.41,7.08,1.00,19,,,,,,,,,
+14,NPT,,,,,,,1.00,19,,,,,,,,,
+15,Mandalay,0.0180,0.0120,0.0176,0.0117,5.27,5.71,1.00,19,,,,,,,,,
+16,Magway,0.0166,0.0110,0.0183,0.0122,5.48,6.67,1.00,19,,,,,,,,,
+17,Shan (South),0.0171,0.0114,0.0099,0.0066,5.46,6.05,1.00,19,,,,,,,,,
+18,Bago / Pegu,0.0147,0.0098,0.0150,0.0100,5.18,5.25,1.00,19,,,,,,,,,
+,Bago West,,,,,5.00,,,,,,,,,,,,
+,Bago East,,,,,5.36,,,,,,,,,,,,
+,Average,0.0189,0.0125,0.0150,0.0099,5.43,6.20,1.09,20,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"Note: no NPT data in CSO, may be considered the same as Mandalay data",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+1000,1417.561684,1416.296701,,,,,,,,,,,,,,,,
